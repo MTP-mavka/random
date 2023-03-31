@@ -1,7 +1,7 @@
 # Модуль рандом
 Модуль [Мавки](https://github.com/mavka-ukr/mavka) для роботи із випадковими числами.
 
-Документацію можно переглянути за адресою https://artemii-kravchuk.gitbook.io/mavka/paki/biblioteka-pakiv-mtp/random.
+Документацію можно переглянути за адресою https://cutt.ly/mavka_random.
 
 ## Встановлення модуля
 Модуль можна загрузити з хмари:
